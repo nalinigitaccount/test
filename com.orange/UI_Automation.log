@@ -1,0 +1,182 @@
+2024-01-07 00:31:35.537 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:39)] - Execution started
+2024-01-07 00:31:35.549 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:43)] - Instatntating the common utills
+2024-01-07 00:31:35.549 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:45)] - Loading the properties file
+2024-01-07 00:31:35.551 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:48)] - Checking the driver is NULL or NOT?
+2024-01-07 00:31:35.553 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:51)] - Driver is NUll, Instatantcite the browser
+2024-01-07 00:31:36.606 INFO [main] [com.orang.driverManger.driverManger.lauchBrowser(driverManger.java:39)] - Launching chrome
+2024-01-07 00:31:42.573 INFO [main] [com.orang.stepdef.verfiyCEONameSteps.the_user_is_logged_in_and_is_on_home_page(verfiyCEONameSteps.java:38)] - the user is logged in successfully and in home page
+2024-01-07 00:31:44.381 INFO [main] [com.orang.stepdef.verfiyCEONameSteps.the_user_selects_the_job_title_as_from_the_drop_down(verfiyCEONameSteps.java:69)] - the user clicks job title select box
+2024-01-07 00:31:45.875 INFO [main] [com.orang.stepdef.verfiyCEONameSteps.user_should_see_the_ceo_name_as(verfiyCEONameSteps.java:113)] - the user should see the CEO name as John Smith
+2024-01-07 00:31:45.886 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:39)] - Execution started
+2024-01-07 00:31:45.887 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:43)] - Instatntating the common utills
+2024-01-07 00:31:45.887 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:45)] - Loading the properties file
+2024-01-07 00:31:45.888 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:48)] - Checking the driver is NULL or NOT?
+2024-01-07 00:31:45.889 INFO [main] [com.orang.stepdef.verifyPendingTimeSheetSteps.the_user_is_on_the_homepage(verifyPendingTimeSheetSteps.java:38)] - the user is logged in successfully and in home page
+2024-01-07 00:32:06.587 ERROR [main] [com.orang.stepdef.verifyPendingTimeSheetSteps.the_user_enter_the_name_as(verifyPendingTimeSheetSteps.java:83)] - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='Type for hints....']"}
+  (Session info: chrome=120.0.6099.131)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-FRFRGCHU', ip: '192.168.86.35', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.131, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\udhay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52572}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f88f6dc276e496b7bfaa09af25174f9f
+*** Element info: {Using=xpath, value=//input[@placeholder='Type for hints....']}
+2024-01-07 00:39:43.930 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:39)] - Execution started
+2024-01-07 00:39:43.934 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:43)] - Instatntating the common utills
+2024-01-07 00:39:43.934 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:45)] - Loading the properties file
+2024-01-07 00:39:43.937 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:48)] - Checking the driver is NULL or NOT?
+2024-01-07 00:39:43.940 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:51)] - Driver is NUll, Instatantcite the browser
+2024-01-07 00:39:44.453 INFO [main] [com.orang.driverManger.driverManger.lauchBrowser(driverManger.java:39)] - Launching chrome
+2024-01-07 00:39:50.737 INFO [main] [com.orang.stepdef.verfiyCEONameSteps.the_user_is_logged_in_and_is_on_home_page(verfiyCEONameSteps.java:38)] - the user is logged in successfully and in home page
+2024-01-07 00:39:52.423 INFO [main] [com.orang.stepdef.verfiyCEONameSteps.the_user_selects_the_job_title_as_from_the_drop_down(verfiyCEONameSteps.java:69)] - the user clicks job title select box
+2024-01-07 00:39:53.898 INFO [main] [com.orang.stepdef.verfiyCEONameSteps.user_should_see_the_ceo_name_as(verfiyCEONameSteps.java:113)] - the user should see the CEO name as John Smith
+2024-01-07 00:39:53.905 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:39)] - Execution started
+2024-01-07 00:39:53.905 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:43)] - Instatntating the common utills
+2024-01-07 00:39:53.905 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:45)] - Loading the properties file
+2024-01-07 00:39:53.906 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:48)] - Checking the driver is NULL or NOT?
+2024-01-07 00:39:53.907 INFO [main] [com.orang.stepdef.verifyPendingTimeSheetSteps.the_user_is_on_the_homepage(verifyPendingTimeSheetSteps.java:38)] - the user is logged in successfully and in home page
+2024-01-07 00:40:14.588 ERROR [main] [com.orang.stepdef.verifyPendingTimeSheetSteps.the_user_enter_the_name_as(verifyPendingTimeSheetSteps.java:83)] - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='Type for hints....']"}
+  (Session info: chrome=120.0.6099.131)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-FRFRGCHU', ip: '192.168.86.35', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.131, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\udhay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52760}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a4a36b8c0cd49c421d107cd3e1c0c823
+*** Element info: {Using=xpath, value=//input[@placeholder='Type for hints....']}
+2024-01-07 00:43:57.040 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:39)] - Execution started
+2024-01-07 00:43:57.043 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:43)] - Instatntating the common utills
+2024-01-07 00:43:57.043 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:45)] - Loading the properties file
+2024-01-07 00:43:57.045 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:48)] - Checking the driver is NULL or NOT?
+2024-01-07 00:43:57.047 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:51)] - Driver is NUll, Instatantcite the browser
+2024-01-07 00:43:57.444 INFO [main] [com.orang.driverManger.driverManger.lauchBrowser(driverManger.java:39)] - Launching chrome
+2024-01-07 00:44:03.996 INFO [main] [com.orang.stepdef.verfiyCEONameSteps.the_user_is_logged_in_and_is_on_home_page(verfiyCEONameSteps.java:38)] - the user is logged in successfully and in home page
+2024-01-07 00:44:06.826 INFO [main] [com.orang.stepdef.verfiyCEONameSteps.the_user_selects_the_job_title_as_from_the_drop_down(verfiyCEONameSteps.java:69)] - the user clicks job title select box
+2024-01-07 00:44:08.759 INFO [main] [com.orang.stepdef.verfiyCEONameSteps.user_should_see_the_ceo_name_as(verfiyCEONameSteps.java:113)] - the user should see the CEO name as John Smith
+2024-01-07 00:44:08.768 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:39)] - Execution started
+2024-01-07 00:44:08.769 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:43)] - Instatntating the common utills
+2024-01-07 00:44:08.769 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:45)] - Loading the properties file
+2024-01-07 00:44:08.770 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:48)] - Checking the driver is NULL or NOT?
+2024-01-07 00:44:08.771 INFO [main] [com.orang.stepdef.verifyPendingTimeSheetSteps.the_user_is_on_the_homepage(verifyPendingTimeSheetSteps.java:38)] - the user is logged in successfully and in home page
+2024-01-07 00:44:29.614 ERROR [main] [com.orang.stepdef.verifyPendingTimeSheetSteps.the_user_enter_the_name_as(verifyPendingTimeSheetSteps.java:83)] - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='Type for hints....']"}
+  (Session info: chrome=120.0.6099.131)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-FRFRGCHU', ip: '192.168.86.35', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.131, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\udhay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52836}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 566e6428aaa86fca3d4a99e608996dce
+*** Element info: {Using=xpath, value=//input[@placeholder='Type for hints....']}
+2024-01-07 10:47:25.643 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:39)] - Execution started
+2024-01-07 10:47:25.647 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:43)] - Instatntating the common utills
+2024-01-07 10:47:25.648 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:45)] - Loading the properties file
+2024-01-07 10:47:25.652 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:48)] - Checking the driver is NULL or NOT?
+2024-01-07 10:47:25.657 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:51)] - Driver is NUll, Instatantcite the browser
+2024-01-07 10:47:26.870 INFO [main] [com.orang.driverManger.driverManger.lauchBrowser(driverManger.java:39)] - Launching chrome
+2024-01-07 10:47:33.148 INFO [main] [com.orang.stepdef.verfiyCEONameSteps.the_user_is_logged_in_and_is_on_home_page(verfiyCEONameSteps.java:38)] - the user is logged in successfully and in home page
+2024-01-07 10:47:34.653 INFO [main] [com.orang.stepdef.verfiyCEONameSteps.the_user_selects_the_job_title_as_from_the_drop_down(verfiyCEONameSteps.java:69)] - the user clicks job title select box
+2024-01-07 10:47:36.191 INFO [main] [com.orang.stepdef.verfiyCEONameSteps.user_should_see_the_ceo_name_as(verfiyCEONameSteps.java:113)] - the user should see the CEO name as John Smith
+2024-01-07 10:47:36.197 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:39)] - Execution started
+2024-01-07 10:47:36.197 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:43)] - Instatntating the common utills
+2024-01-07 10:47:36.197 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:45)] - Loading the properties file
+2024-01-07 10:47:36.197 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:48)] - Checking the driver is NULL or NOT?
+2024-01-07 10:47:36.197 INFO [main] [com.orang.stepdef.verifyPendingTimeSheetSteps.the_user_is_on_the_homepage(verifyPendingTimeSheetSteps.java:38)] - the user is logged in successfully and in home page
+2024-01-07 10:47:56.949 ERROR [main] [com.orang.stepdef.verifyPendingTimeSheetSteps.the_user_enter_the_name_as(verifyPendingTimeSheetSteps.java:83)] - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='Type for hints....']"}
+  (Session info: chrome=120.0.6099.131)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-FRFRGCHU', ip: '192.168.86.35', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.131, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\udhay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53827}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bd5413b79c6e4028ca0620e7a4f0bddc
+*** Element info: {Using=xpath, value=//input[@placeholder='Type for hints....']}
+2024-01-07 10:50:46.386 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:42)] - Execution started
+2024-01-07 10:50:46.389 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:46)] - Instatntating the common utills
+2024-01-07 10:50:46.389 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:48)] - Loading the properties file
+2024-01-07 10:50:46.391 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:51)] - Checking the driver is NULL or NOT?
+2024-01-07 10:50:46.393 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:54)] - Driver is NUll, Instatantcite the browser
+2024-01-07 10:50:46.837 INFO [main] [com.orang.driverManger.driverManger.lauchBrowser(driverManger.java:39)] - Launching chrome
+2024-01-07 10:50:53.522 INFO [main] [com.orang.stepdef.verfiyCEONameSteps.the_user_is_logged_in_and_is_on_home_page(verfiyCEONameSteps.java:38)] - the user is logged in successfully and in home page
+2024-01-07 10:50:54.864 INFO [main] [com.orang.stepdef.verfiyCEONameSteps.the_user_selects_the_job_title_as_from_the_drop_down(verfiyCEONameSteps.java:69)] - the user clicks job title select box
+2024-01-07 10:50:56.365 INFO [main] [com.orang.stepdef.verfiyCEONameSteps.user_should_see_the_ceo_name_as(verfiyCEONameSteps.java:113)] - the user should see the CEO name as John Smith
+2024-01-07 10:50:56.381 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:42)] - Execution started
+2024-01-07 10:50:56.381 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:46)] - Instatntating the common utills
+2024-01-07 10:50:56.381 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:48)] - Loading the properties file
+2024-01-07 10:50:56.381 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:51)] - Checking the driver is NULL or NOT?
+2024-01-07 10:50:56.381 INFO [main] [com.orang.stepdef.verifyPendingTimeSheetSteps.the_user_is_on_the_homepage(verifyPendingTimeSheetSteps.java:38)] - the user is logged in successfully and in home page
+2024-01-07 10:51:17.129 ERROR [main] [com.orang.stepdef.verifyPendingTimeSheetSteps.the_user_enter_the_name_as(verifyPendingTimeSheetSteps.java:83)] - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='Type for hints....']"}
+  (Session info: chrome=120.0.6099.131)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-FRFRGCHU', ip: '192.168.86.35', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.131, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\udhay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53973}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a2a28a928e7f3f62eb4d80d924faa66c
+*** Element info: {Using=xpath, value=//input[@placeholder='Type for hints....']}
+2024-01-07 10:53:36.226 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:42)] - Execution started
+2024-01-07 10:53:36.229 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:46)] - Instatntating the common utills
+2024-01-07 10:53:36.229 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:48)] - Loading the properties file
+2024-01-07 10:53:36.231 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:51)] - Checking the driver is NULL or NOT?
+2024-01-07 10:53:36.233 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:54)] - Driver is NUll, Instatantcite the browser
+2024-01-07 10:53:36.617 INFO [main] [com.orang.driverManger.driverManger.lauchBrowser(driverManger.java:39)] - Launching chrome
+2024-01-07 10:53:43.099 INFO [main] [com.orang.stepdef.verfiyCEONameSteps.the_user_is_logged_in_and_is_on_home_page(verfiyCEONameSteps.java:38)] - the user is logged in successfully and in home page
+2024-01-07 10:53:44.541 INFO [main] [com.orang.stepdef.verfiyCEONameSteps.the_user_selects_the_job_title_as_from_the_drop_down(verfiyCEONameSteps.java:69)] - the user clicks job title select box
+2024-01-07 10:53:46.027 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:42)] - Execution started
+2024-01-07 10:53:46.027 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:46)] - Instatntating the common utills
+2024-01-07 10:53:46.027 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:48)] - Loading the properties file
+2024-01-07 10:53:46.027 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:51)] - Checking the driver is NULL or NOT?
+2024-01-07 10:53:46.035 INFO [main] [com.orang.stepdef.verifyPendingTimeSheetSteps.the_user_is_on_the_homepage(verifyPendingTimeSheetSteps.java:38)] - the user is logged in successfully and in home page
+2024-01-07 10:54:06.721 ERROR [main] [com.orang.stepdef.verifyPendingTimeSheetSteps.the_user_enter_the_name_as(verifyPendingTimeSheetSteps.java:83)] - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='Type for hints....']"}
+  (Session info: chrome=120.0.6099.131)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-FRFRGCHU', ip: '192.168.86.35', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.131, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\udhay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54065}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 27432b804f196f394fe1e47249e5f362
+*** Element info: {Using=xpath, value=//input[@placeholder='Type for hints....']}
+2024-01-07 15:10:41.308 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:42)] - Execution started
+2024-01-07 15:10:41.312 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:46)] - Instatntating the common utills
+2024-01-07 15:10:41.312 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:48)] - Loading the properties file
+2024-01-07 15:10:41.314 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:51)] - Checking the driver is NULL or NOT?
+2024-01-07 15:10:41.316 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:54)] - Driver is NUll, Instatantcite the browser
+2024-01-07 15:10:42.268 INFO [main] [com.orang.driverManger.driverManger.lauchBrowser(driverManger.java:39)] - Launching chrome
+2024-01-07 15:10:48.177 INFO [main] [com.orang.stepdef.verfiyCEONameSteps.the_user_is_logged_in_and_is_on_home_page(verfiyCEONameSteps.java:39)] - the user is logged in successfully and in home page
+2024-01-07 15:10:49.658 INFO [main] [com.orang.stepdef.verfiyCEONameSteps.the_user_selects_the_job_title_as_from_the_drop_down(verfiyCEONameSteps.java:73)] - the user clicks job title select box
+2024-01-07 15:10:51.140 INFO [main] [com.orang.stepdef.verfiyCEONameSteps.user_should_see_the_ceo_name_as(verfiyCEONameSteps.java:117)] - the user should see the CEO name as John Smith
+2024-01-07 15:10:51.156 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:42)] - Execution started
+2024-01-07 15:10:51.156 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:46)] - Instatntating the common utills
+2024-01-07 15:10:51.156 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:48)] - Loading the properties file
+2024-01-07 15:10:51.156 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:51)] - Checking the driver is NULL or NOT?
+2024-01-07 15:10:51.156 INFO [main] [com.orang.stepdef.verifyPendingTimeSheetSteps.the_user_is_on_the_homepage(verifyPendingTimeSheetSteps.java:38)] - the user is logged in successfully and in home page
+2024-01-07 15:11:11.902 ERROR [main] [com.orang.stepdef.verifyPendingTimeSheetSteps.the_user_enter_the_name_as(verifyPendingTimeSheetSteps.java:83)] - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='Type for hints....']"}
+  (Session info: chrome=120.0.6099.131)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-FRFRGCHU', ip: '192.168.86.35', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.131, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\udhay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55223}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a63c9f04bf7a27f4c1450d725cd4a3ac
+*** Element info: {Using=xpath, value=//input[@placeholder='Type for hints....']}
+2024-01-18 23:43:47.577 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:42)] - Execution started
+2024-01-18 23:43:47.580 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:46)] - Instatntating the common utills
+2024-01-18 23:43:47.580 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:48)] - Loading the properties file
+2024-01-18 23:43:47.583 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:51)] - Checking the driver is NULL or NOT?
+2024-01-18 23:43:47.587 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:54)] - Driver is NUll, Instatantcite the browser
+2024-01-18 23:43:48.059 INFO [main] [com.orang.driverManger.driverManger.lauchBrowser(driverManger.java:35)] - Launching chrome
+2024-01-18 23:43:55.105 INFO [main] [com.orang.stepdef.verfiyCEONameSteps.the_user_is_logged_in_and_is_on_home_page(verfiyCEONameSteps.java:39)] - the user is logged in successfully and in home page
+2024-01-18 23:43:57.004 INFO [main] [com.orang.stepdef.verfiyCEONameSteps.the_user_selects_the_job_title_as_from_the_drop_down(verfiyCEONameSteps.java:73)] - the user clicks job title select box
+2024-01-18 23:43:58.588 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:42)] - Execution started
+2024-01-18 23:43:58.588 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:46)] - Instatntating the common utills
+2024-01-18 23:43:58.588 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:48)] - Loading the properties file
+2024-01-18 23:43:58.590 INFO [main] [com.orang.stepdef.commonMethods.beforeScenario(commonMethods.java:51)] - Checking the driver is NULL or NOT?
+2024-01-18 23:43:58.591 INFO [main] [com.orang.stepdef.verifyPendingTimeSheetSteps.the_user_is_on_the_homepage(verifyPendingTimeSheetSteps.java:38)] - the user is logged in successfully and in home page
+2024-01-18 23:44:19.392 ERROR [main] [com.orang.stepdef.verifyPendingTimeSheetSteps.the_user_enter_the_name_as(verifyPendingTimeSheetSteps.java:83)] - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@placeholder='Type for hints....']"}
+  (Session info: chrome=120.0.6099.225)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-FRFRGCHU', ip: '192.168.86.35', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 120.0.6099.225, chrome: {chromedriverVersion: 120.0.6099.109 (3419140ab66..., userDataDir: C:\Users\udhay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59063}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 20404340059e961fad18b51dae2d4dc1
+*** Element info: {Using=xpath, value=//input[@placeholder='Type for hints....']}
